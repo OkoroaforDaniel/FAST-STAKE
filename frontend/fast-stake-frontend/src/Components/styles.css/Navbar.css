@@ -1,0 +1,90 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+.Handbuger {
+    font-size: 200%;
+}
+.Logo h1 {
+    font-weight: bolder;
+    font-size: 120%;
+    margin-top: 10px;
+    /* color: #6023d1; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.Navbar {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0 4px 4px -2px rgba(0, 0, 0, 0.2);
+    padding: 5px;
+    
+}
+.Logo {
+    margin-left: 5%;
+}
+.Handbuger {
+    margin-right: 5%;
+    margin-top: 5px;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+.xmark{
+    float: right;
+    margin-right: 25px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.Topxbar{
+    display: flex;
+    justify-content: space-between;
+}
+.LogoX{
+    font-weight: bolder;
+    margin-top: 10px;
+    font-size: 60%;
+    margin-left: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Xcontent{
+    text-align: center;
+    margin-top: 20px;
+}
+.Xcontent p {
+    font-size: large;
+    font-weight: bolder;
+    margin-bottom: 50px;
+}
+/* .XmarkDiv {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+  } */
+.XmarkDiv {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    transition: background-color 1s ease, box-shadow 0.3s ease; /* Add transition properties */
+    z-index: 1000;
+  }
+  .Registerxmark{
+    border: solid black 1px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 15px;
+    border-radius: 15px;
+  }
+  .LinkXmarkP{
+    text-decoration: none;
+    color: black;
+  }

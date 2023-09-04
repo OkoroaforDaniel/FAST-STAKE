@@ -1,0 +1,92 @@
+.AppealForm {
+    display: flex;
+    flex-direction: column;
+}
+.AppealTextArea{
+    width: 95%;
+    height: 80px;
+    padding: 10px;
+    text-decoration: none;
+    outline: none;
+    margin-top: 10px;
+    background-color: #f9f5fe;
+    border: none;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.AppealAdBackIcon{
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.h3Appeal{
+    margin-left: 10px;
+}
+.AppealButton{
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 95%;
+    padding: 10px;
+    background-color: #6023d1;
+    border: none;
+    border-radius: 5px;
+    /* margin-top: 90%; */
+    color: white;
+}
+.AppealInput{
+    /* width: 100px;
+    height: 80px; */
+    border-radius: 0px;
+    margin-left: 10px;
+    border: none;
+    /* background-color: #f9f5fe; */
+}
+.file-label {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #f9f5fe;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 95%;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .AppealLabel{
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+  }
+  .AppealText{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  .CS{
+    color: gray;
+    margin-bottom: 10px;
+  }
+  .NOTE{
+    color: gray;
+    margin-bottom: 10px;
+  }
+  .Click{
+    color: gray;
+    margin-bottom: 10px;
+  }
+  .After{
+    color: gray;
+    margin-bottom: 10px;
+  }
+  .AppealForm {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #fffefe;
+    padding: 10px;
+    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+}

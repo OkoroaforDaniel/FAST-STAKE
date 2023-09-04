@@ -1,0 +1,70 @@
+.GameAds{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.AdsGame{
+    color: gray;
+}
+.online-user-Ads{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.AdsDiv {
+    margin-bottom: 20px;
+    /* display: flex; */
+    background-color: #f9f5fe;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    margin-top: 20px;
+}
+.ImgStarMeduim{
+    display: flex;
+}
+.AdsStake{
+    margin-top: 20px;
+}
+.AdsStar{
+    margin-left: 20px;
+}
+.AdsMedium{
+    margin-left: 20px;
+    color: gray;
+}
+.GameAds{
+    margin-bottom: 15px;
+}
+.Stake{
+    display: flex;
+    justify-content: space-between;
+}
+.StakeButton{
+    background-color: #6023d1;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    width: 80px;
+    height: 40px;
+}
+.hr-Ads{
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.AdLink{
+    text-decoration: none;
+    color: gray;
+    margin-left: 10px;
+}
+.AdLink1{
+    text-decoration: none;
+    color: white;
+    background-color: #6023d1;
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 10px;
+}

@@ -1,0 +1,89 @@
+.TopChatItem {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.OpenChatImg {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.ChatFooter {
+    /* height: 20px; */
+    display: flex;
+    margin-top: auto;
+    position: sticky;
+    background-color: white;
+}
+.ChatApp {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: whitesmoke;
+  }
+  .ChatMesssage {
+    border: none;
+    outline: none;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+  }
+  .Online{
+    font-size: small;
+    text-align: center;
+  }
+  .PlusIcon{
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+  .ShareIcon{
+    margin-left: 80px;
+    margin-top: 10px;
+    background-color: #6023d1;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+  }
+  .ShareIcon i {
+    margin-left: 12px;
+    margin-top: 10px;
+  }
+  .SampleChat1{
+    background-color: #f0e7fa;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-top: 30px;
+    margin-left: 10px;
+    width: 50%;
+  }
+  .SampleChat2{
+    background-color: #6023d1;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-top: 20px;
+    width: 50%;
+    margin-right: 10px;
+    float: right;
+  }
+  .SampleChat1 p {
+    color: black;
+    padding: 20px;
+  }
+  .SampleChat2 p {
+    color: white;
+    padding: 20px;
+  }
+  .ChatLinkDiv .OpenChatDiv img{
+    text-decoration: none;
+    
+  }

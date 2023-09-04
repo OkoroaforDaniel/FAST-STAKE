@@ -1,0 +1,79 @@
+.online-user1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.BodyHome {
+    margin-top: 50px;
+    /* margin-left: 20px; */
+    display: flex;
+    flex-direction: row;
+    border-radius: 20px;
+    /* background-color: white; */
+    padding-top: 50px;
+}
+.first-online-user {
+    position: absolute;
+    z-index: -1;
+    margin-left: -10%;
+}
+.green-icon {
+    width: 10p;
+    height: 10px;
+    border-radius: 50%;
+    margin-left: 15%;
+    margin-top: 10%;
+
+}
+.Users{
+    margin-left: 15%;
+}
+.VIewMore {
+    font-size: small;
+    font-weight: bolder;
+    margin-top: 10%;
+
+}
+.fisrtCahatDiv{
+    margin-top: 20%;
+}
+.ChatDiv {
+    margin-bottom: 20px;
+    display: flex;
+    background-color: #f9f5fe;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+}
+.ChatText {
+    color: gray;
+    margin-top: 10%;
+    margin-left: 20px;
+    font-size: small;
+}
+.online-user-chat {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.UserName{
+    margin-left: 20px;
+    font-size: larger;
+    font-weight: bolder;
+}
+.ChatIcon{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 50%;
+}
+.ChatIconImage{
+    width: 50%;
+    height: 50%;
+}
+.LinkDiv{
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,39 @@
+.StakeIdChat{
+    display: flex;
+    justify-content: space-between;
+}
+.GamePending{
+    display: flex;
+    justify-content: space-between;
+}
+.MatchDiv{
+    margin-bottom: 20px;
+    background-color: #f9f5fe;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    margin-top: 20px;
+}
+.StakeIdChat p{
+    margin-top: 10px;
+}
+.MatchChat{
+    margin-top: 30px;
+}
+.Pending{
+    color: goldenrod;
+}
+.Appeal{
+    color: red;
+}
+.StakeId{
+    color: gray;
+}
+#Game{
+    color: gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.MatchLink{
+    text-decoration: none;
+}

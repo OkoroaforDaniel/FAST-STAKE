@@ -1,0 +1,78 @@
+.PostAdTop{
+    display: flex;
+    margin-top: 20px;
+}
+.PostAdBackIcon{
+    margin-left: 10px;
+}
+.PostAdH3{
+    margin-left: 30%;
+}
+.GameSelector{
+    padding: 10px;
+    text-decoration: none;
+    outline: none;
+    width: 175px;
+    margin-top: 10px;
+    background-color: #f9f5fe;
+    border: none;
+    border-radius: 5px;
+}
+.GameSelectorDiv{
+    margin-left: 10px;
+    margin-top: 50px;
+}
+.GameAsset{
+    display: flex;
+}
+.btwPriceFixed{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.PriceSetting{
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.FixedPrice{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.FixedPriceInput{
+    padding: 10px;
+    text-decoration: none;
+    outline: none;
+    width: 175px;
+    margin-top: 10px;
+    background-color: #f9f5fe;
+    border: none;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+.TermsTextArea{
+    width: 95%;
+    height: 80px;
+    padding: 10px;
+    text-decoration: none;
+    outline: none;
+    margin-top: 10px;
+    background-color: #f9f5fe;
+    border: none;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.Terms{
+    margin-left: 10px;
+}
+.PostButton{
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 95%;
+    padding: 10px;
+    background-color: #6023d1;
+    border: none;
+    border-radius: 5px;
+    margin-top: 90%;
+    color: white;
+}
